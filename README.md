@@ -1,5 +1,5 @@
 # playwrightTask-loop
-The tests are located at asana-login.js
+The tests are located under tests/asana-login.js
 
 Acceptance Criteria:
 Setup and Preparation:
